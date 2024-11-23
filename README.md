@@ -1,1 +1,1 @@
-# AI-translation-tool
+PowerPoint Presentation on how to build this tool
